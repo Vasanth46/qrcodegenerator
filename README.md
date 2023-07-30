@@ -6,6 +6,10 @@ This is a simple QR Code Generator web application built using HTML, CSS, and Ja
 
 [QR-Code-Generator](https://hilarious-froyo-b15d60.netlify.app/)
 
+##**OUTPUT**
+![QR1](https://github.com/Vasanth46/qrcodegenerator/assets/93511366/b026560c-d4db-49f4-a745-a0eccc902dbd)
+![QR2](https://github.com/Vasanth46/qrcodegenerator/assets/93511366/9332761e-b388-4371-8443-e2ea41aef7b7)
+
 ## Features
 - Input box to enter text or URL.
 - "Generate" button to create the QR code image based on the input.
